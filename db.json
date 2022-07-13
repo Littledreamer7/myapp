@@ -1,0 +1,34 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Martin",
+      "place": "Irenipuram"
+    },
+    {
+      "id": 2,
+      "name": "Manoj",
+      "place": "Marthandam"
+    },
+    {
+      "id": 3,
+      "name": "Akash",
+      "place": "Marthandam"
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "place": "KumariNagar"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
